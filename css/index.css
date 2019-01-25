@@ -74,9 +74,6 @@ body {
   height: 242px;
 
 }
-.section2{
- 
-}
 .section2 i {
     position: relative;
     padding: 20px;
@@ -84,5 +81,15 @@ body {
     font-size: 3em;
     color:white ;
     background-color:#3498DB;
+
+}
+#imgoverlay
+{
+  display: none;
+}
+#imagebox:hover  > #imgoverlay
+{
+  display: block;
+
 
 }
