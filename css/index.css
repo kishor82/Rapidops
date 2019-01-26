@@ -90,6 +90,10 @@ body {
 #imagebox:hover  > #imgoverlay
 {
   display: block;
+  border-radius: 5px;
 
 
+}
+#imagebox {
+	border-radius: 5px;
 }
