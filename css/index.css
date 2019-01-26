@@ -81,7 +81,11 @@ body {
     font-size: 3em;
     color:white ;
     background-color:#3498DB;
+    border-radius: 5px;
 
+}
+.section3 {
+	    background-color:#F4F6F6 
 }
 #imgoverlay
 {
@@ -96,4 +100,19 @@ body {
 }
 #imagebox {
 	border-radius: 5px;
+}
+#contact{
+	background:url('./img/248159.jpg');
+}
+.form input textarea {
+	align-content: center;
+	text-align: center;
+	display: block;
+	width: 200px;
+	box-sizing: border-box;
+}
+.section4 {
+	align-content: center;
+	text-align: center;
+	color: white;
 }
