@@ -116,3 +116,25 @@ body {
 	text-align: center;
 	color: white;
 }
+.icn {
+   display:grid;
+}
+.icn span > i {
+  border: 1px solid ;
+  font-size: 1.5em;
+  color: white;
+  padding: 20px;
+  margin:10px;
+  border-radius: 5px;
+
+}
+
+.icn span {
+  margin: auto;
+
+}
+.icn span > i:hover {
+  border: 2px solid black;
+  color: black;
+  border-radius: 5px; 
+}
