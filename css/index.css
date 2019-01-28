@@ -139,3 +139,15 @@ body {
   color: black;
   border-radius: 5px; 
 }
+
+  input[type="text"],textarea[type="text"],input[type="submit"],input[type="checkbox"]
+{
+    background: transparent;
+    color: white;
+    font-weight: bold;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+input::-webkit-input-placeholder ,textarea::-webkit-input-placeholder{
+color: white !important;
+}
