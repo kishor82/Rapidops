@@ -103,6 +103,7 @@ body {
 }
 #contact{
 	background:url('./img/248159.jpg');
+  background-size: cover;
 }
 .form input textarea {
 	align-content: center;
